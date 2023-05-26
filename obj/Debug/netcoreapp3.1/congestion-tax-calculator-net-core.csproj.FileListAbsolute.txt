@@ -1,0 +1,10 @@
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\bin\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.deps.json
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\bin\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.dll
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\bin\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.pdb
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.csproj.AssemblyReference.cache
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.AssemblyInfoInputs.cache
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.AssemblyInfo.cs
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.csproj.CoreCompileInputs.cache
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.dll
+C:\AliKaramiVAIO\MyProjects\Fintranet\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.pdb
